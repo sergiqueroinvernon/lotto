@@ -1,0 +1,60 @@
+body{
+    background-image: url("backgrounds/holzmuster.png");
+}
+
+
+#lottoh1 
+{
+    padding: 20px;
+    background: rgb(202, 114, 32);
+    border: 1px solid black;
+    font-family: Mansalva, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+label 
+{
+    font-weight: 100;
+    font-style: inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+form {
+    background: rgb(234 159 89);
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.lottoform input[type=number] {
+    width:25% ;
+ 
+    background-color: rgb(255 222 132);
+
+    
+}
+#submit{
+    background-color: rgb(245, 180, 45)
+    ;
+}
+
+label {
+    color: white;
+}
+#submitinput{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#submitinput::value{
+   color:white;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#mainbox
+{
+border: 5px solid black;
+
+}
+
+
+
